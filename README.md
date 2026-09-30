@@ -17,7 +17,7 @@ The machine works like a coffee machine. The user inserts a pod of premixed herb
 - **Ultrasonic transducers (40 kHz piezoelectric):** break open plant cell membranes to speed up extraction and reduce preparation time.
 - **NFC sensor:** reads the pod and starts the process for that specific Kadha.
 - **Touchscreen display:** start and stop control for the user.
-- **Emergency stop button:** safety cut-off in case of a fault.
+- **Exhaust fan:** clears vapor from the boiling chamber during the process.
 - **Drainer in the boiling container:** keeps powder out of the outlet pipe.
 - **Filter paper at the dispenser:** catches any particles that pass through.
 - **Electronic box:** houses the electronics. The controller will be an ESP32 or a Raspberry Pi, chosen after prototyping.
