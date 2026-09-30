@@ -1,4 +1,4 @@
-# KwathBrew
+# iKwath Pod
 
 A pod-based smart Kwatha (Kadha) maker that prepares a fresh decoction from coarse powder (yavakuta churna) on demand, in the shortest practical time without changing the quality or yield of the decoction.
 
